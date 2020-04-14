@@ -89,7 +89,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/heweiye/ToyoDAd
 
 #### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/heweiye/ToyoDAdoubiBackup/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/goosebig/ToyoDAdoubiBackup/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
 ```
 
 ---
